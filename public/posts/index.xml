@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Gershon 的博客</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Gershon 的博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 26 Sep 2026 23:09:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sat, 26 Sep 2026 23:09:19 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;+++&lt;/p&gt;
+&lt;p&gt;date = &amp;lsquo;2026-09-26T23:09:19+08:00&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;draft = false&lt;/p&gt;
+&lt;p&gt;title = &amp;lsquo;Hello World&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;+++&lt;/p&gt;
+&lt;p&gt;欢迎来到我的个人博客！&lt;/p&gt;
+&lt;p&gt;这是我使用 Hugo 和 PaperMod 主题搭建的第一篇文章。后续我会在这里记录技术、学习与生活心得。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

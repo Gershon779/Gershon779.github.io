@@ -1,0 +1,7 @@
+baseURL = 'https://Gershon779.github.io/'
+languageCode = 'zh-cn'
+title = 'Gershon 的博客'
+theme = 'PaperMod'
+
+[params]
+  homeInfoParams = { Title = "你好 👋", Content = "欢迎来到 Gershon 的个人博客！" }
